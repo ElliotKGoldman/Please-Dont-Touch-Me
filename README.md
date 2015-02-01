@@ -1,1 +1,3 @@
-# please-dont-touch-me
+# Please Don't Touch Me
+
+Please Don't Touch Me is an application written in Processing exploring the "personal" space of computers. A screen slowly fades in and out (mimicking breathing) and every time the user touches the mouse or keyboard, the computer responds with "Please don't touch me" and becomes more and more agitated. As the user continues to touch the computer, the screen, or digital breath, begins to quicken and the computer's requests become more urgent. After a while, it starts swearing and will take a screenshot of the user, posting the "perpetrator" on twitter before the screen goes to black.
